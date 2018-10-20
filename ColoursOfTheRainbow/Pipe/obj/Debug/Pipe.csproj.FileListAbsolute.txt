@@ -1,0 +1,10 @@
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.exe.config
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.exe
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.pdb
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.Form1.resources
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.Properties.Resources.resources
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.exe
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.pdb
