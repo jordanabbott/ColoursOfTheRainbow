@@ -1,0 +1,16 @@
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.exe.config
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.exe
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\ColoursOfTheRainbow.pdb
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.Form1.resources
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.Properties.Resources.resources
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.exe
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.pdb
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\obj\Debug\ColoursOfTheRainbow.csproj.CopyComplete
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Pipe.exe
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Pipe.pdb
+C:\Users\Jordan\source\repos\ColoursOfTheRainbow\ColoursOfTheRainbow\bin\Debug\Pipe.exe.config
