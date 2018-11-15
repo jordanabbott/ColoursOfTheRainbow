@@ -8,8 +8,8 @@ namespace ColoursOfTheRainbow
 {
     public class Colour
     {
-        string hexCode { get; set; }
-        string name { get; set; }
+       public string hexCode { get; set; }
+        public string name { get; set; }
 
 
     }

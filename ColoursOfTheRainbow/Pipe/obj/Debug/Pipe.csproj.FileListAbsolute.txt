@@ -8,3 +8,13 @@ C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.Gene
 C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache
 C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.exe
 C:\Users\Jordan\source\repos\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.pdb
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.exe.config
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.exe
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\bin\Debug\Pipe.pdb
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csprojResolveAssemblyReference.cache
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.Form1.resources
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.Properties.Resources.resources
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.GenerateResource.Cache
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.csproj.CoreCompileInputs.cache
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.exe
+E:\Software Development\Semester Two\C#\ColoursOfTheRainbow\Pipe\obj\Debug\Pipe.pdb
